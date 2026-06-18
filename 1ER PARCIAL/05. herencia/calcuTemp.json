@@ -1,0 +1,12 @@
+{
+    "enteros": {
+        "numero1": 40,
+        "numero2": 20,
+        "resultado": 60
+    },
+    "decimales": {
+        "numero1": 2.5,
+        "numero2": 3.6,
+        "resultado": 6.1
+    }
+}

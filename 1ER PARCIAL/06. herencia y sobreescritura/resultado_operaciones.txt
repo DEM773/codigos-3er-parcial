@@ -1,0 +1,31 @@
+ARCHIVO TXT
+PROGRAMA DE OPERACIONES
+Entero 1: 20
+Entero 2: 60
+Suma enteros: 80
+Decimal 1: 5.6
+Decimal 2: 8.8
+Suma decimales: 14.4
+
+ARCHIVO CSV
+Tipo,Numero1,Numero2,Resultado
+Enteros,20,60,80
+Decimales,5.6,8.8,14.4
+
+ARCHIVO XML
+<operaciones>
+    <enteros>
+        <numero1>20</numero1>
+        <numero2>60</numero2>
+        <resultado>80</resultado>
+    </enteros>
+</operaciones>
+
+ARCHIVO JSON
+{
+    "enteros": {
+        "numero1": 20,
+        "numero2": 60,
+        "resultado": 80
+    }
+}

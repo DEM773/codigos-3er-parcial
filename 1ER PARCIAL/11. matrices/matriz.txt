@@ -1,0 +1,18 @@
+PROGRAMA DE MATRICES
+
+Matriz A
+4 56
+46 23
+
+Matriz B
+2 6
+8 936
+
+Constante: 45
+Resultado A * constante
+180 2520
+2070 1035
+
+Resultado A * B
+456 52440
+276 21804

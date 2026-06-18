@@ -1,0 +1,18 @@
+Dato,Posicion,Valor
+A,A00,4
+A,A01,56
+A,A10,46
+A,A11,23
+B,B00,2
+B,B01,6
+B,B10,8
+B,B11,936
+Constante,C,45
+A por constante,C00,180
+A por constante,C01,2520
+A por constante,C10,2070
+A por constante,C11,1035
+A por B,M00,456
+A por B,M01,52440
+A por B,M10,276
+A por B,M11,21804

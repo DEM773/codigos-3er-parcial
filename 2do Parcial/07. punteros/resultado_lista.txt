@@ -1,0 +1,38 @@
+ARCHIVO TXT
+PROGRAMA DE LISTA SIMPLE
+
+Lista de datos
+Dato: 56
+Dato: 5
+Dato: 78
+Dato: 11
+Dato: 556
+
+ARCHIVO CSV
+Posicion,Dato
+1,56
+2,5
+3,78
+4,11
+5,556
+
+ARCHIVO XML
+<?xml version="1.0" encoding="UTF-8"?>
+<lista>
+    <dato>56</dato>
+    <dato>5</dato>
+    <dato>78</dato>
+    <dato>11</dato>
+    <dato>556</dato>
+</lista>
+
+ARCHIVO JSON
+{
+    "datos": [
+        56,
+        5,
+        78,
+        11,
+        556
+    ]
+}

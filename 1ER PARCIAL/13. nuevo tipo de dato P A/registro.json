@@ -1,0 +1,25 @@
+{
+    "personas": [
+        {
+            "nombre": "dulce",
+            "apellidoPaterno": "ledezma",
+            "apellidoMaterno": "jimenez",
+            "genero": "m",
+            "edad": 20
+        },
+        {
+            "nombre": "adriana",
+            "apellidoPaterno": "ledezma",
+            "apellidoMaterno": "jimenez",
+            "genero": "m",
+            "edad": 26
+        },
+        {
+            "nombre": "cinthia",
+            "apellidoPaterno": "ledezma",
+            "apellidoMaterno": "jimenez",
+            "genero": "m",
+            "edad": 52
+        }
+    ]
+}

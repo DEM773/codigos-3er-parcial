@@ -1,0 +1,7 @@
+PROGRAMA DE CALCULADORA
+Numero 1: 56
+Numero 2: 45
+Suma: 101
+Resta: 11
+Multiplicacion: 2520
+Division: 1.24444

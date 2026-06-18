@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calculo>
+    <enteros>
+        <numero1>40</numero1>
+        <numero2>20</numero2>
+        <resultado>60</resultado>
+    </enteros>
+    <decimales>
+        <numero1>2.5</numero1>
+        <numero2>3.6</numero2>
+        <resultado>6.1</resultado>
+    </decimales>
+</calculo>

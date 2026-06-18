@@ -1,0 +1,29 @@
+ARCHIVO TXT
+PROGRAMA DE COLA CON NODOS
+
+Cola de datos
+Dato: 21
+Decimal: 1
+
+ARCHIVO CSV
+Posicion,Dato,Decimal
+1,21,1
+
+ARCHIVO XML
+<?xml version="1.0" encoding="UTF-8"?>
+<cola2>
+    <nodo>
+        <dato>21</dato>
+        <decimal>1</decimal>
+    </nodo>
+</cola2>
+
+ARCHIVO JSON
+{
+    "cola": [
+        {
+            "dato": 21,
+            "decimal": 1
+        }
+     ]
+}

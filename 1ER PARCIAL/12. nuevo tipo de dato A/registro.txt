@@ -1,0 +1,32 @@
+PROGRAMA DE REGISTRO
+
+LISTA DE AUTOS
+Auto 1
+Precio: 5000
+Anio: 4222
+Auto 2
+Precio: 695444
+Anio: 454
+Auto 3
+Precio: 546
+Anio: 6464
+
+LISTA DE PERSONAS
+Persona 1
+Nombre: 645
+Apellido paterno: 646
+Apellido materno: 646
+Genero: 6464
+Edad: 6464
+Persona 2
+Nombre: 64654
+Apellido paterno: 6564
+Apellido materno: 3263
+Genero: 56
+Edad: 664
+Persona 3
+Nombre: 646
+Apellido paterno: 6
+Apellido materno: 6
+Genero: 659
+Edad: 649

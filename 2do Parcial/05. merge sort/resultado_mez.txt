@@ -1,0 +1,65 @@
+ARCHIVO TXT
+PROGRAMA DE ORDENAMIENTO MERGE
+
+Enteros originales: 45 12 75 74 23 
+Posiciones: 1 4 0 3 2 
+Enteros ordenados: 12 23 45 74 75 
+
+Caracteres originales: s r a h b 
+Posiciones: 2 4 3 1 0 
+Caracteres ordenados: a b h r s 
+
+Nuevo tipo original: t k 7 4 5 
+Posiciones: 3 4 2 1 0 
+Nuevo tipo ordenado: 4 5 7 k t 
+
+ARCHIVO CSV
+Tipo,Posicion,Original,Ordenado
+Entero,1,45,12
+Entero,2,12,23
+Entero,3,75,45
+Entero,4,74,74
+Entero,5,23,75
+Caracter,1,s,a
+Caracter,2,r,b
+Caracter,3,a,h
+Caracter,4,h,r
+Caracter,5,b,s
+NuevoTipo,1,t,4
+NuevoTipo,2,k,5
+NuevoTipo,3,7,7
+NuevoTipo,4,4,k
+NuevoTipo,5,5,t
+
+ARCHIVO XML
+<?xml version="1.0" encoding="UTF-8"?>
+<mez>
+    <enteros>
+        <dato original="45" ordenado="12" />
+        <dato original="12" ordenado="23" />
+        <dato original="75" ordenado="45" />
+        <dato original="74" ordenado="74" />
+        <dato original="23" ordenado="75" />
+    </enteros>
+    <caracteres>
+        <dato original="s" ordenado="a" />
+        <dato original="r" ordenado="b" />
+        <dato original="a" ordenado="h" />
+        <dato original="h" ordenado="r" />
+        <dato original="b" ordenado="s" />
+    </caracteres>
+    <nuevoTipo>
+        <dato original="t" ordenado="4" />
+        <dato original="k" ordenado="5" />
+        <dato original="7" ordenado="7" />
+        <dato original="4" ordenado="k" />
+        <dato original="5" ordenado="t" />
+    </nuevoTipo>
+</mez>
+
+ARCHIVO JSON
+{
+    "enterosOrdenados": [12, 23, 45, 74, 75],
+    "caracteresOrdenados": ["a", "b", "h", "r", "s"],
+    "nuevoTipoOrdenado": ["4", "5", "7", "k", "t"]
+}

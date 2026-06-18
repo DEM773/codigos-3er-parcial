@@ -1,0 +1,15 @@
+{
+    "persona": {
+        "nombre": "DULCE",
+        "apellido_p": "LEDEZMA",
+        "apellido_m": "JIMENEZ",
+        "genero": "MUJER",
+        "edad": 20
+    },
+    "bytes": {
+        "char": 1,
+        "int": 4,
+        "autoo": 8,
+        "persona": 40
+    }
+}

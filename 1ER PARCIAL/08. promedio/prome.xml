@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<promedio>
+    <numero1>52</numero1>
+    <numero2>65</numero2>
+    <numero3>75</numero3>
+    <numero4>89</numero4>
+    <numero5>45</numero5>
+    <suma>326</suma>
+    <promedio>65.2</promedio>
+    <maximo>89</maximo>
+    <minimo>45</minimo>
+</promedio>

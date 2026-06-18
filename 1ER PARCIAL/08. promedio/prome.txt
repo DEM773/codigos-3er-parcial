@@ -1,0 +1,10 @@
+PROGRAMA DE PROMEDIO
+Numero 1: 52
+Numero 2: 65
+Numero 3: 75
+Numero 4: 89
+Numero 5: 45
+Suma: 326
+Promedio: 65.2
+Maximo: 89
+Minimo: 45

@@ -1,0 +1,42 @@
+ARCHIVO TXT
+PROGRAMA DE PROMEDIO
+Numero 1: 52
+Numero 2: 65
+Numero 3: 75
+Numero 4: 89
+Numero 5: 45
+Suma: 326
+Promedio: 65.2
+Maximo: 89
+Minimo: 45
+
+ARCHIVO CSV
+Numero1,Numero2,Numero3,Numero4,Numero5,Suma,Promedio,Maximo,Minimo
+52,65,75,89,45,326,65.2,89,45
+
+ARCHIVO XML
+<?xml version="1.0" encoding="UTF-8"?>
+<promedio>
+    <numero1>52</numero1>
+    <numero2>65</numero2>
+    <numero3>75</numero3>
+    <numero4>89</numero4>
+    <numero5>45</numero5>
+    <suma>326</suma>
+    <promedio>65.2</promedio>
+    <maximo>89</maximo>
+    <minimo>45</minimo>
+</promedio>
+
+ARCHIVO JSON
+{
+    "numero1": 52,
+    "numero2": 65,
+    "numero3": 75,
+    "numero4": 89,
+    "numero5": 45,
+    "suma": 326,
+    "promedio": 65.2,
+    "maximo": 89,
+    "minimo": 45
+}

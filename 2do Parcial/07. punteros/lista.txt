@@ -1,0 +1,8 @@
+PROGRAMA DE LISTA SIMPLE
+
+Lista de datos
+Dato: 56
+Dato: 5
+Dato: 78
+Dato: 11
+Dato: 556

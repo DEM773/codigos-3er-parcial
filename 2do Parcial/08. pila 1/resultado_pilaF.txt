@@ -1,0 +1,23 @@
+ARCHIVO TXT
+PROGRAMA DE PILA FLOAT
+
+Tamano: 0
+Pila vacia
+
+ARCHIVO CSV
+Posicion,Dato
+
+ARCHIVO XML
+<?xml version="1.0" encoding="UTF-8"?>
+<pilaF>
+    <tamano>0</tamano>
+    <datos>
+    </datos>
+</pilaF>
+
+ARCHIVO JSON
+{
+    "tamano": 0,
+    "datos": [
+    ]
+}

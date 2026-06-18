@@ -1,0 +1,11 @@
+PROGRAMA CON PUNTERO
+Numero 1: 23
+Numero 2: 45
+Numero 3: 78
+Numero 4: 98
+Numero 5: 98
+Suma: 342
+Promedio: 68.4
+Media: 78
+Maximo: 98
+Minimo: 23

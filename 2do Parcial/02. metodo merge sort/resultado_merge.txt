@@ -1,0 +1,32 @@
+ARCHIVO TXT
+PROGRAMA METODO MERGE
+Datos ordenados: 6 12 45 58 75 
+
+ARCHIVO CSV
+Posicion,Valor
+1,6
+2,12
+3,45
+4,58
+5,75
+
+ARCHIVO XML
+<?xml version="1.0" encoding="UTF-8"?>
+<merge>
+    <dato>6</dato>
+    <dato>12</dato>
+    <dato>45</dato>
+    <dato>58</dato>
+    <dato>75</dato>
+</merge>
+
+ARCHIVO JSON
+{
+    "datosOrdenados": [
+        6,
+        12,
+        45,
+        58,
+        75
+    ]
+}

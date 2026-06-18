@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registro>
+    <persona>
+        <nombre>dulce</nombre>
+        <apellidoPaterno>ledezma</apellidoPaterno>
+        <apellidoMaterno>jimenez</apellidoMaterno>
+        <genero>m</genero>
+        <edad>20</edad>
+    </persona>
+    <persona>
+        <nombre>adriana</nombre>
+        <apellidoPaterno>ledezma</apellidoPaterno>
+        <apellidoMaterno>jimenez</apellidoMaterno>
+        <genero>m</genero>
+        <edad>26</edad>
+    </persona>
+    <persona>
+        <nombre>cinthia</nombre>
+        <apellidoPaterno>ledezma</apellidoPaterno>
+        <apellidoMaterno>jimenez</apellidoMaterno>
+        <genero>m</genero>
+        <edad>52</edad>
+    </persona>
+</registro>

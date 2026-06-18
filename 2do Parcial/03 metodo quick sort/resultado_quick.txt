@@ -1,0 +1,32 @@
+ARCHIVO TXT
+PROGRAMA METODO QUICK
+Datos ordenados: 41 45 54 158 786 
+
+ARCHIVO CSV
+Posicion,Valor
+1,41
+2,45
+3,54
+4,158
+5,786
+
+ARCHIVO XML
+<?xml version="1.0" encoding="UTF-8"?>
+<quick>
+    <dato>41</dato>
+    <dato>45</dato>
+    <dato>54</dato>
+    <dato>158</dato>
+    <dato>786</dato>
+</quick>
+
+ARCHIVO JSON
+{
+    "datosOrdenados": [
+        41,
+        45,
+        54,
+        158,
+        786
+    ]
+}

@@ -1,0 +1,5 @@
+PROGRAMA TEMPLATE
+Enteros: 40 y 20
+Suma enteros: 60
+Decimales: 2.5 y 3.6
+Suma decimales: 6.1

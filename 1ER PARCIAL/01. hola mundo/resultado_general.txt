@@ -1,0 +1,17 @@
+ARCHIVO TXT
+Hola Mundo
+
+ARCHIVO CSV
+Mensaje
+Hola Mundo
+
+ARCHIVO XML
+<?xml version="1.0" encoding="UTF-8"?>
+<mensaje>
+    <texto>Hola Mundo</texto>
+</mensaje>
+
+ARCHIVO JSON
+{
+    "mensaje": "Hola Mundo"
+}

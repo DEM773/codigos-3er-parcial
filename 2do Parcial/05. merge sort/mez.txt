@@ -1,0 +1,10 @@
+PROGRAMA DE ORDENAMIENTO MERGE
+
+Enteros originales: 45 12 75 74 23 
+Enteros ordenados: 12 23 45 74 75 
+
+Caracteres originales: s r a h b 
+Caracteres ordenados: a b h r s 
+
+Nuevo tipo original: t k 7 4 5 
+Nuevo tipo ordenado: 4 5 7 k t 

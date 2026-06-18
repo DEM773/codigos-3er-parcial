@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registro>
+    <autos>
+        <auto>
+            <precio>5000</precio>
+            <anio>4222</anio>
+        </auto>
+        <auto>
+            <precio>695444</precio>
+            <anio>454</anio>
+        </auto>
+        <auto>
+            <precio>546</precio>
+            <anio>6464</anio>
+        </auto>
+    </autos>
+    <personas>
+        <persona>
+            <nombre>645</nombre>
+            <apellidoPaterno>646</apellidoPaterno>
+            <apellidoMaterno>646</apellidoMaterno>
+            <genero>6464</genero>
+            <edad>6464</edad>
+        </persona>
+        <persona>
+            <nombre>64654</nombre>
+            <apellidoPaterno>6564</apellidoPaterno>
+            <apellidoMaterno>3263</apellidoMaterno>
+            <genero>56</genero>
+            <edad>664</edad>
+        </persona>
+        <persona>
+            <nombre>646</nombre>
+            <apellidoPaterno>6</apellidoPaterno>
+            <apellidoMaterno>6</apellidoMaterno>
+            <genero>659</genero>
+            <edad>649</edad>
+        </persona>
+    </personas>
+</registro>

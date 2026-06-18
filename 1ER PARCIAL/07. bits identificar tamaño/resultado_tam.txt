@@ -1,0 +1,10 @@
+REPORTE GENERAL DE DATOS
+=========================
+Nombre: DULCE LEDEZMA
+Edad: 20
+
+TAMAÑOS EN DISCO:
+Char: 1 bytes
+Int: 4 bytes
+Clase Auto: 8 bytes
+Clase Persona: 40 bytes

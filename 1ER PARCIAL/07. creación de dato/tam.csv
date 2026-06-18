@@ -1,0 +1,12 @@
+Tipo,Propiedad,Valor o Bytes
+Persona,Nombre,dulce
+Persona,ApellidoP,ledezma
+Persona,ApellidoM,jimenez
+Persona,Genero,mujer
+Persona,Edad,20
+Basico,char,1
+Basico,int,4
+Basico,float,4
+Basico,double,8
+Creado,autoo,8
+Creado,persona,40

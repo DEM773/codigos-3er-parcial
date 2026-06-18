@@ -1,0 +1,2 @@
+PROGRAMA METODO QUICK
+Datos ordenados: 41 45 54 158 786 

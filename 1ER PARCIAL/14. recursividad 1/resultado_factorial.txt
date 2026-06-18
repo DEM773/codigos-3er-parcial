@@ -1,0 +1,21 @@
+ARCHIVO TXT
+PROGRAMA DE FACTORIAL
+Numero: 1
+Factorial: 1
+
+ARCHIVO CSV
+Numero,Factorial
+1,1
+
+ARCHIVO XML
+<?xml version="1.0" encoding="UTF-8"?>
+<factorial>
+    <numero>1</numero>
+    <resultado>1</resultado>
+</factorial>
+
+ARCHIVO JSON
+{
+    "numero": 1,
+    "factorial": 1
+}

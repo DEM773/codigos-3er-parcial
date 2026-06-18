@@ -1,0 +1,21 @@
+PROGRAMA DE REGISTRO CON PUNTERO
+
+LISTA DE PERSONAS
+Persona 1
+Nombre: dulce
+Apellido paterno: ledezma
+Apellido materno: jimenez
+Genero: m
+Edad: 20
+Persona 2
+Nombre: adriana
+Apellido paterno: ledezma
+Apellido materno: jimenez
+Genero: m
+Edad: 26
+Persona 3
+Nombre: cinthia
+Apellido paterno: ledezma
+Apellido materno: jimenez
+Genero: m
+Edad: 52

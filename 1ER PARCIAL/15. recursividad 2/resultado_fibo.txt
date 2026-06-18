@@ -1,0 +1,21 @@
+ARCHIVO TXT
+PROGRAMA DE FIBONACCI
+Posicion: 4
+Fibonacci: 3
+
+ARCHIVO CSV
+Posicion,Fibonacci
+4,3
+
+ARCHIVO XML
+<?xml version="1.0" encoding="UTF-8"?>
+<fibonacci>
+    <posicion>4</posicion>
+    <resultado>3</resultado>
+</fibonacci>
+
+ARCHIVO JSON
+{
+    "posicion": 4,
+    "fibonacci": 3
+}

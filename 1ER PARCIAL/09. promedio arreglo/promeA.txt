@@ -1,0 +1,11 @@
+PROGRAMA DE PROMEDIO Y MEDIA
+Numero 1: 56
+Numero 2: 78
+Numero 3: 75
+Numero 4: 26
+Numero 5: 45
+Suma: 280
+Promedio: 56
+Media: 56
+Maximo: 78
+Minimo: 26

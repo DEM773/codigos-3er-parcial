@@ -1,0 +1,2 @@
+PROGRAMA METODO MERGE
+Datos ordenados: 6 12 45 58 75 

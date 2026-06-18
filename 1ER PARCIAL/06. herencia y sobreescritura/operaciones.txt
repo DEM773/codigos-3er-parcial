@@ -1,0 +1,7 @@
+PROGRAMA DE OPERACIONES
+Entero 1: 20
+Entero 2: 60
+Suma enteros: 80
+Decimal 1: 5.6
+Decimal 2: 8.8
+Suma decimales: 14.4

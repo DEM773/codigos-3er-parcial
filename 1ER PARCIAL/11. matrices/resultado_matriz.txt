@@ -1,0 +1,78 @@
+ARCHIVO TXT
+PROGRAMA DE MATRICES
+
+Matriz A
+4 56
+46 23
+
+Matriz B
+2 6
+8 936
+
+Constante: 45
+Resultado A * constante
+180 2520
+2070 1035
+
+Resultado A * B
+456 52440
+276 21804
+
+ARCHIVO CSV
+Dato,Posicion,Valor
+A,A00,4
+A,A01,56
+A,A10,46
+A,A11,23
+B,B00,2
+B,B01,6
+B,B10,8
+B,B11,936
+Constante,C,45
+A por constante,C00,180
+A por constante,C01,2520
+A por constante,C10,2070
+A por constante,C11,1035
+A por B,M00,456
+A por B,M01,52440
+A por B,M10,276
+A por B,M11,21804
+
+ARCHIVO XML
+<?xml version="1.0" encoding="UTF-8"?>
+<matriz>
+    <A>
+        <a00>4</a00>
+        <a01>56</a01>
+        <a10>46</a10>
+        <a11>23</a11>
+    </A>
+    <B>
+        <b00>2</b00>
+        <b01>6</b01>
+        <b10>8</b10>
+        <b11>936</b11>
+    </B>
+    <constante>45</constante>
+    <resultadoConstante>
+        <c00>180</c00>
+        <c01>2520</c01>
+        <c10>2070</c10>
+        <c11>1035</c11>
+    </resultadoConstante>
+    <resultadoMatriz>
+        <m00>456</m00>
+        <m01>52440</m01>
+        <m10>276</m10>
+        <m11>21804</m11>
+    </resultadoMatriz>
+</matriz>
+
+ARCHIVO JSON
+{
+    "A": [[4,56],[46,23]],
+    "B": [[2,6],[8,936]],
+    "constante": 45,
+    "resultadoConstante": [[180,2520],[2070,1035]],
+    "resultadoMatriz": [[456,52440],[276,21804]]
+}

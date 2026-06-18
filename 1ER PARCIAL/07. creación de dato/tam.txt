@@ -1,0 +1,14 @@
+DATOS CAPTURADOS
+Nombre: dulce ledezma jimenez
+Genero: mujer
+Edad: 20
+
+TIPOS DE DATOS BASICOS
+char: 1 bytes
+int: 4 bytes
+float: 4 bytes
+double: 8 bytes
+
+TIPOS DE DATOS CREADOS
+autoo: 8 bytes
+persona: 40 bytes

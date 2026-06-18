@@ -1,0 +1,22 @@
+ARCHIVO TXT
+PROGRAMA DE SOBRECARGA
+Suma de 2 numeros: 101
+Suma de 3 numeros: 12
+
+ARCHIVO CSV
+Operacion,Resultado
+Suma de 2 numeros,101
+Suma de 3 numeros,12
+
+ARCHIVO XML
+<?xml version="1.0" encoding="UTF-8"?>
+<sobrecarga>
+    <sumaDosNumeros>101</sumaDosNumeros>
+    <sumaTresNumeros>12</sumaTresNumeros>
+</sobrecarga>
+
+ARCHIVO JSON
+{
+    "sumaDosNumeros": 101,
+    "sumaTresNumeros": 12
+}

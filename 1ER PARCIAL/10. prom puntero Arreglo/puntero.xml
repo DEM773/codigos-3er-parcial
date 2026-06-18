@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<puntero>
+    <numero1>23</numero1>
+    <numero2>45</numero2>
+    <numero3>78</numero3>
+    <numero4>98</numero4>
+    <numero5>98</numero5>
+    <suma>342</suma>
+    <promedio>68.4</promedio>
+    <media>78</media>
+    <maximo>98</maximo>
+    <minimo>23</minimo>
+</puntero>

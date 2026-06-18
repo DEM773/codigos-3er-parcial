@@ -1,0 +1,16 @@
+Tipo,Posicion,Original,Ordenado
+Entero,1,45,12
+Entero,2,12,23
+Entero,3,75,45
+Entero,4,74,74
+Entero,5,23,75
+Caracter,1,s,a
+Caracter,2,r,b
+Caracter,3,a,h
+Caracter,4,h,r
+Caracter,5,b,s
+NuevoTipo,1,t,4
+NuevoTipo,2,k,5
+NuevoTipo,3,7,7
+NuevoTipo,4,4,k
+NuevoTipo,5,5,t

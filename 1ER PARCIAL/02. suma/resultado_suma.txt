@@ -1,0 +1,24 @@
+ARCHIVO TXT
+PROGRAMA DE SUMA
+Numero a: 54
+Numero b: 45
+Resultado: 99
+
+ARCHIVO CSV
+Numero A,Numero B,Resultado
+54,45,99
+
+ARCHIVO XML
+<?xml version="1.0" encoding="UTF-8"?>
+<suma>
+    <numeroA>54</numeroA>
+    <numeroB>45</numeroB>
+    <resultado>99</resultado>
+</suma>
+
+ARCHIVO JSON
+{
+    "numeroA": 54,
+    "numeroB": 45,
+    "resultado": 99
+}

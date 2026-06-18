@@ -1,0 +1,10 @@
+PROGRAMA DE ORDENAMIENTO
+
+Enteros originales: 45 12 75 5 88 
+Enteros ordenados: 5 12 45 75 88 
+
+Caracteres originales: a b c d f 
+Caracteres ordenados: a b c d f 
+
+Nuevo tipo original: 4 7 2 1 5 
+Nuevo tipo ordenado: 1 2 4 5 7 

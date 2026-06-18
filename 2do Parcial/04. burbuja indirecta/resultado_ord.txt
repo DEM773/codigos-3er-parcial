@@ -1,0 +1,65 @@
+ARCHIVO TXT
+PROGRAMA DE ORDENAMIENTO
+
+Enteros originales: 45 12 75 5 88 
+Posiciones: 3 1 0 2 4 
+Enteros ordenados: 5 12 45 75 88 
+
+Caracteres originales: a b c d f 
+Posiciones: 0 1 2 3 4 
+Caracteres ordenados: a b c d f 
+
+Nuevo tipo original: 4 7 2 1 5 
+Posiciones: 3 2 0 4 1 
+Nuevo tipo ordenado: 1 2 4 5 7 
+
+ARCHIVO CSV
+Tipo,Posicion,Original,Ordenado
+Entero,1,45,5
+Entero,2,12,12
+Entero,3,75,45
+Entero,4,5,75
+Entero,5,88,88
+Caracter,1,a,a
+Caracter,2,b,b
+Caracter,3,c,c
+Caracter,4,d,d
+Caracter,5,f,f
+NuevoTipo,1,4,1
+NuevoTipo,2,7,2
+NuevoTipo,3,2,4
+NuevoTipo,4,1,5
+NuevoTipo,5,5,7
+
+ARCHIVO XML
+<?xml version="1.0" encoding="UTF-8"?>
+<ordenamiento>
+    <enteros>
+        <dato original="45" ordenado="5" />
+        <dato original="12" ordenado="12" />
+        <dato original="75" ordenado="45" />
+        <dato original="5" ordenado="75" />
+        <dato original="88" ordenado="88" />
+    </enteros>
+    <caracteres>
+        <dato original="a" ordenado="a" />
+        <dato original="b" ordenado="b" />
+        <dato original="c" ordenado="c" />
+        <dato original="d" ordenado="d" />
+        <dato original="f" ordenado="f" />
+    </caracteres>
+    <nuevoTipo>
+        <dato original="4" ordenado="1" />
+        <dato original="7" ordenado="2" />
+        <dato original="2" ordenado="4" />
+        <dato original="1" ordenado="5" />
+        <dato original="5" ordenado="7" />
+    </nuevoTipo>
+</ordenamiento>
+
+ARCHIVO JSON
+{
+    "enterosOrdenados": [5, 12, 45, 75, 88],
+    "caracteresOrdenados": ["a", "b", "c", "d", "f"],
+    "nuevoTipoOrdenado": ["1", "2", "4", "5", "7"]
+}

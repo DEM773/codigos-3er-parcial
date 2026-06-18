@@ -1,0 +1,32 @@
+ARCHIVO TXT
+PROGRAMA DE CALCULADORA
+Numero 1: 56
+Numero 2: 45
+Suma: 101
+Resta: 11
+Multiplicacion: 2520
+Division: 1.24444
+
+ARCHIVO CSV
+Numero 1,Numero 2,Suma,Resta,Multiplicacion,Division
+56,45,101,11,2520,1.24444
+
+ARCHIVO XML
+<calculadora>
+    <numero1>56</numero1>
+    <numero2>45</numero2>
+    <suma>101</suma>
+    <resta>11</resta>
+    <multiplicacion>2520</multiplicacion>
+    <division>1.24444</division>
+</calculadora>
+
+ARCHIVO JSON
+{
+    "numero1": 56,
+    "numero2": 45,
+    "suma": 101,
+    "resta": 11,
+    "multiplicacion": 2520,
+    "division": 1.24444
+}

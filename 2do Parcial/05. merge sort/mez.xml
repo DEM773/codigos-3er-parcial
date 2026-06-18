@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mez>
+    <enteros>
+        <dato original="45" ordenado="12" />
+        <dato original="12" ordenado="23" />
+        <dato original="75" ordenado="45" />
+        <dato original="74" ordenado="74" />
+        <dato original="23" ordenado="75" />
+    </enteros>
+    <caracteres>
+        <dato original="s" ordenado="a" />
+        <dato original="r" ordenado="b" />
+        <dato original="a" ordenado="h" />
+        <dato original="h" ordenado="r" />
+        <dato original="b" ordenado="s" />
+    </caracteres>
+    <nuevoTipo>
+        <dato original="t" ordenado="4" />
+        <dato original="k" ordenado="5" />
+        <dato original="7" ordenado="7" />
+        <dato original="4" ordenado="k" />
+        <dato original="5" ordenado="t" />
+    </nuevoTipo>
+</mez>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tamanios>
+    <persona>
+        <nombre>DULCE</nombre>
+        <apellidoP>LEDEZMA</apellidoP>
+        <apellidoM>JIMENEZ</apellidoM>
+        <genero>MUJER</genero>
+        <edad>20</edad>
+    </persona>
+    <bytes>
+        <char>1</char>
+        <int>4</int>
+        <autoo>8</autoo>
+        <persona>40</persona>
+    </bytes>
+</tamanios>

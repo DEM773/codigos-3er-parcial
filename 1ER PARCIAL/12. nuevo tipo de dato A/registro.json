@@ -1,0 +1,39 @@
+{
+    "autos": [
+        {
+            "precio": 5000,
+            "anio": 4222
+        },
+        {
+            "precio": 695444,
+            "anio": 454
+        },
+        {
+            "precio": 546,
+            "anio": 6464
+        }
+    ],
+    "personas": [
+        {
+            "nombre": "645",
+            "apellidoPaterno": "646",
+            "apellidoMaterno": "646",
+            "genero": "6464",
+            "edad": 6464
+        },
+        {
+            "nombre": "64654",
+            "apellidoPaterno": "6564",
+            "apellidoMaterno": "3263",
+            "genero": "56",
+            "edad": 664
+        },
+        {
+            "nombre": "646",
+            "apellidoPaterno": "6",
+            "apellidoMaterno": "6",
+            "genero": "659",
+            "edad": 649
+        }
+    ]
+}

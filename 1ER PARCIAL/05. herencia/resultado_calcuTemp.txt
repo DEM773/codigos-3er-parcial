@@ -1,0 +1,39 @@
+ARCHIVO TXT
+PROGRAMA TEMPLATE
+Enteros: 40 y 20
+Suma enteros: 60
+Decimales: 2.5 y 3.6
+Suma decimales: 6.1
+
+ARCHIVO CSV
+Tipo,Numero1,Numero2,Resultado
+Enteros,40,20,60
+Decimales,2.5,3.6,6.1
+
+ARCHIVO XML
+<calculo>
+    <enteros>
+        <numero1>40</numero1>
+        <numero2>20</numero2>
+        <resultado>60</resultado>
+    </enteros>
+    <decimales>
+        <numero1>2.5</numero1>
+        <numero2>3.6</numero2>
+        <resultado>6.1</resultado>
+    </decimales>
+</calculo>
+
+ARCHIVO JSON
+{
+    "enteros": {
+        "numero1": 40,
+        "numero2": 20,
+        "resultado": 60
+    },
+    "decimales": {
+        "numero1": 2.5,
+        "numero2": 3.6,
+        "resultado": 6.1
+    }
+}

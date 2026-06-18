@@ -1,0 +1,3 @@
+PROGRAMA DE FACTORIAL
+Numero: 1
+Factorial: 1

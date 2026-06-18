@@ -1,0 +1,12 @@
+DATOS CAPTURADOS
+Nombre: DULCE LEDEZMA JIMENEZ
+Genero: MUJER
+Edad: 20
+
+TAMANIOS
+char: 1 bytes
+int: 4 bytes
+float: 4 bytes
+double: 8 bytes
+autoo: 8 bytes
+persona: 40 bytes

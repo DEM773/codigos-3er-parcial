@@ -1,0 +1,34 @@
+ARCHIVO TXT
+DATOS CAPTURADOS
+Nombre: dulce ledezma jimenez
+Genero: mujer
+Edad: 20
+TIPOS DE DATOS BASICOS
+char: 1 bytes
+int: 4 bytes
+float: 4 bytes
+double: 8 bytes
+TIPOS DE DATOS CREADOS
+autoo: 8 bytes
+persona: 40 bytes
+
+ARCHIVO CSV
+Tipo,Propiedad,Valor o Bytes
+Persona,Nombre,dulce
+Persona,Edad,20
+Basico,char,1
+Creado,persona,40
+
+ARCHIVO XML
+<tamanios>
+    <persona>
+        <nombre>dulce</nombre>
+    </persona>
+</tamanios>
+
+ARCHIVO JSON
+{
+    "persona": {
+        "nombre": "dulce"
+    }
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calculadora>
+    <numero1>56</numero1>
+    <numero2>45</numero2>
+    <suma>101</suma>
+    <resta>11</resta>
+    <multiplicacion>2520</multiplicacion>
+    <division>1.24444</division>
+</calculadora>

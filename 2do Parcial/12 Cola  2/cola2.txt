@@ -1,0 +1,5 @@
+PROGRAMA DE COLA CON NODOS
+
+Cola de datos
+Dato: 21
+Decimal: 1
