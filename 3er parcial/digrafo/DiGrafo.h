@@ -8,16 +8,17 @@
 #include <queue>
 #include <climits>
 #include <algorithm>
+#include <fstream>
+#include <cstdlib>
 
 using namespace std;
 
-// Estructura para las aristas dirigidas (arcos)
 struct Ruta {
-    string origen;       // Nodo de salida (ni)
-    string destino;      // Nodo de llegada (nf)
-    string nombreArista; // Nombre del arco (ae)
-    int peso;            // Costo (p)
-    int tiempo;          // Duracion (t)
+    string origen;       
+    string destino;      
+    string nombreArista; 
+    int peso;            
+    int tiempo;          
 };
 
 class Grafo {
@@ -26,7 +27,6 @@ private:
     vector<Ruta> rutas;   
     map<string, vector<pair<string, int> > > listaAdyacencia; 
 
-    // Algoritmo de busqueda para contar caminos en un digrafo
     void contarTodasLasRutas(string actual, string destino, map<string, bool>& visitado, int& contador);
 
 public:
@@ -36,6 +36,7 @@ public:
     void mostrarRutasCargadas();
     int obtenerTotalCaminos(string origen, string destino);
     void buscarRutaMasCortaDijkstra(string origen, string destino);
+    void archivos();
 };
 
 #endif

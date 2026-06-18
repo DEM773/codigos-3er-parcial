@@ -1,0 +1,11 @@
+{
+    "nodos": [
+        {
+            "id": 1,
+            "nombre": "21",
+            "padre": "Ninguno",
+            "cantidadHijos": 0,
+            "esHoja": "Si"
+        }
+    ]
+}

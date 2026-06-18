@@ -88,6 +88,7 @@ int main() {
                 break;
                 
             case 6:
+                appDigrafo.archivos();
                 cout << "\nCerrando el sistema de Digrafos..." << endl;
                 break;
                 

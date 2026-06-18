@@ -1,0 +1,9 @@
+PROGRAMA CONSTRUCTOR DE ARBOLES GENERALES
+
+Listado General de Nodos:
+Nodo 1
+Nombre: 21
+Padre: Ninguno
+Cantidad de Hijos: 0
+Es Nodo Hoja: Si
+

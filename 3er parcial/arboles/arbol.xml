@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registro_arbol>
+    <nodo>
+        <id>1</id>
+        <nombre>21</nombre>
+        <padre>Ninguno</padre>
+        <cantidadHijos>0</cantidadHijos>
+        <esHoja>Si</esHoja>
+    </nodo>
+</registro_arbol>

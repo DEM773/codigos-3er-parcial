@@ -5,10 +5,11 @@
 #include <vector>
 #include <string>
 #include <queue>
+#include <fstream>
+#include <cstdlib>
 
 using namespace std;
 
-// Estructura para cada Nodo del Árbol General
 struct NodoArbol {
     string nombre;
     NodoArbol* padre;
@@ -24,7 +25,6 @@ class Arbol {
 private:
     NodoArbol* raiz;
 
-    // Funciones auxiliares recursivas
     NodoArbol* buscarNodoRecursivo(NodoArbol* actual, string nombreABuscar);
     void mostrarEstructuraRecursiva(NodoArbol* actual, string prefijo, bool esUltimo);
     void recolectarHojas(NodoArbol* actual, vector<string>& hojas);
@@ -40,6 +40,8 @@ public:
     void mostrarHojas();
     void consultarInformacionNodo(string nombreNodo);
     bool estaVacio();
+    
+    void archivos();
 };
 
 #endif

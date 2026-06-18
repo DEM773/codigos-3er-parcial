@@ -1,0 +1,5 @@
+REPORTES DE GRAFOS
+
+Nodos:
+- 12
+- 21

@@ -65,6 +65,11 @@ int main() {
                 break;
                 
             case 6:
+                if (!miArbol.estaVacio()) {
+                    miArbol.archivos();
+                } else {
+                    cout << "\n[!] Arbol vacio. No se generaron reportes." << endl;
+                }
                 cout << "\nCerrando el organizador jerarquico..." << endl;
                 break;
                 

@@ -1,0 +1,7 @@
+SISTEMA DE DIGRAFOS (RUTAS DIRIGIDAS)
+
+Nodos Registrados:
+- 2
+- 23
+
+Tabla de Arcos Dirigidos:

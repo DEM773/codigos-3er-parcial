@@ -8,6 +8,8 @@
 #include <queue>
 #include <climits>
 #include <algorithm>
+#include <fstream>
+#include <cstdlib>
 
 using namespace std;
 
@@ -34,6 +36,7 @@ public:
     void mostrarRutasCargadas();
     int obtenerTotalCaminos(string origen, string destino);
     void buscarRutaMasCortaDijkstra(string origen, string destino);
+    void archivos();
 };
 
 #endif
