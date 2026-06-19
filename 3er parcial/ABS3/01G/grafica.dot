@@ -1,0 +1,10 @@
+graph SistemaRutas {
+    rankdir=LR;
+    node [shape=circle];
+    "casa" -- "mb" [label="1 Tiempo: 10 Costo: $0"];
+    "casa" -- "casa" [label="5 Tiempo: 0 Costo: $0"];
+    "mb" -- "coyuya" [label="2 Tiempo: 40 Costo: $6"];
+    "coyuya" -- "upiicsa" [label="3 Tiempo: 10 Costo: $0"];
+    "upiicsa" -- "u" [label="4 Tiempo: 3 Costo: $0"];
+    "u" -- "mb" [label="6 Tiempo: 50 Costo: $6"];
+}

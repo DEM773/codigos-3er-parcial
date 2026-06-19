@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<sistema_grafos>
-    <nodos_registrados>
-        <nodo>2</nodo>
-        <nodo>23</nodo>
-    </nodos_registrados>
-    <arcos_dirigidos>
-    </arcos_dirigidos>
-</sistema_grafos>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sistemaRutas>
+<conexion>
+<origen>casa</origen>
+<destino>mb</destino>
+<nombre>1</nombre>
+<tiempo>10</tiempo>
+<costo>0</costo>
+</conexion>
+<conexion>
+<origen>mb</origen>
+<destino>casa</destino>
+<nombre>1 (Vuelta)</nombre>
+<tiempo>10</tiempo>
+<costo>0</costo>
+</conexion>
+<conexion>
+<origen>mb</origen>
+<destino>coyuya</destino>
+<nombre>2</nombre>
+<tiempo>40</tiempo>
+<costo>6</costo>
+</conexion>
+<conexion>
+<origen>coyuya</origen>
+<destino>mb</destino>
+<nombre>2 (Vuelta)</nombre>
+<tiempo>40</tiempo>
+<costo>6</costo>
+</conexion>
+<conexion>
+<origen>coyuya</origen>
+<destino>upiicssa</destino>
+<nombre>3</nombre>
+<tiempo>10</tiempo>
+<costo>2</costo>
+</conexion>
+<conexion>
+<origen>upiicssa</origen>
+<destino>coyuya</destino>
+<nombre>3 (Vuelta)</nombre>
+<tiempo>10</tiempo>
+<costo>2</costo>
+</conexion>
+</sistemaRutas>

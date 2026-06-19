@@ -1,0 +1,13 @@
+{
+    "tipo": "Arbol binario manual",
+    "cantidadNodos": 6,
+    "altura": 3,
+    "nodos": [
+        {"nombre":"Abuelo","descripcion":"lider de la familia y fundador del arbol","padre":null,"posicion":"raiz"},
+        {"nombre":"Papa","descripcion":"hijo del abuelo y encargado de rama","padre":"Abuelo","posicion":"izquierdo"},
+        {"nombre":"Atreus","descripcion":"joven cazador en entrenamiento por Papa","padre":"Papa","posicion":"izquierdo"},
+        {"nombre":"tio","descripcion":"segundo hijo del abuelo","padre":"Abuelo","posicion":"derecho"},
+        {"nombre":"Atenea","descripcion":"estratega de arbol familiar, entusiasta en lectura","padre":"tio","posicion":"izquierdo"},
+        {"nombre":"Ellie","descripcion":"joven valiente, entusiasmada por aprender nuevos retos","padre":"tio","posicion":"derecho"}
+    ]
+}
