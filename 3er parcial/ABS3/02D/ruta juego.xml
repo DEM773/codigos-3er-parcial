@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sistemaRutas>
+<conexion>
+<origen>casa</origen>
+<destino>mb</destino>
+<nombre>A</nombre>
+<tiempo>10</tiempo>
+<costo>0</costo>
+</conexion>
+<conexion>
+<origen>mb</origen>
+<destino>casa</destino>
+<nombre>A (Vuelta)</nombre>
+<tiempo>10</tiempo>
+<costo>0</costo>
+</conexion>
+<conexion>
+<origen>mb</origen>
+<destino>metro-escuadron</destino>
+<nombre>B</nombre>
+<tiempo>15</tiempo>
+<costo>6</costo>
+</conexion>
+<conexion>
+<origen>metro-escuadron</origen>
+<destino>mb</destino>
+<nombre>B (Vuelta)</nombre>
+<tiempo>15</tiempo>
+<costo>6</costo>
+</conexion>
+<conexion>
+<origen>metro-escuadron</origen>
+<destino>uam</destino>
+<nombre>C</nombre>
+<tiempo>20</tiempo>
+<costo>5</costo>
+</conexion>
+<conexion>
+<origen>uam</origen>
+<destino>metro-escuadron</destino>
+<nombre>C (Vuelta)</nombre>
+<tiempo>20</tiempo>
+<costo>5</costo>
+</conexion>
+<conexion>
+<origen>uam</origen>
+<destino>canchas</destino>
+<nombre>D</nombre>
+<tiempo>10</tiempo>
+<costo>0</costo>
+</conexion>
+<conexion>
+<origen>canchas</origen>
+<destino>uam</destino>
+<nombre>D (Vuelta)</nombre>
+<tiempo>10</tiempo>
+<costo>0</costo>
+</conexion>
+</sistemaRutas>

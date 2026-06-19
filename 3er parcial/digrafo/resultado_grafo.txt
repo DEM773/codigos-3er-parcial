@@ -1,9 +1,0 @@
-========================================
-      REPORTE INTEGRAL DEL DIGRAFO      
-========================================
-
-1. NODOS DEL SISTEMA:
-   - 2
-   - 23
-
-2. RELACIONES / MATRIZ DE ARCOS:
